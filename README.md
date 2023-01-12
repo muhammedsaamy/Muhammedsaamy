@@ -1,6 +1,6 @@
 <h1>
   Hi 
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I'm MOHAMED SAMY
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I'm Muhammed Samy
 </h1>
 
 
