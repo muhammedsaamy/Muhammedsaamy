@@ -1,10 +1,11 @@
+<div>
 <h1 align="center">
   Hi 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I'm Muhammed Samy
 </h1>
 
  <h2 align="center">Software Engineer</h2>
-
+</div>
 - 👀 I’m interested in Full Stack Web Development
 - 💞️ Seeking a challenging position in a reputed organization as a .Net developer where I can learn new skills, expand my knowledge, and grow up together..
 - 📫 How to reach me: Muhammedsaamy@gmail.com
