@@ -2,7 +2,7 @@
   Hi 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I'm Muhammed Samy
 </h1>
- <hr>
+
  <h2 align="center">Software Engineer</h2>
 
 - 👀 I’m interested in Full Stack Web Development
