@@ -2,7 +2,6 @@
 <h3 align="center">Software Engineer</h3>
 
 - 👀 I’m interested in Full Stack Web Development
-- 💞️ Seeking a challenging position in a reputed organization as a .Net developer where I can learn new skills, expand my knowledge, and grow up together..
 - 🔭 I’m currently working on [Techno Store](https://github.com/muhammedsaamy/Techno-Store.git)
 - 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1AdtigMe-Ze6KbMgT-0ctpZi1HgR2gqdw/view?usp=share_link)
 - 📫 How to reach me: Muhammedsaamy@gmail.com
