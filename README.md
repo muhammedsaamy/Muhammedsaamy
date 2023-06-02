@@ -3,7 +3,6 @@
 
 - 👀 I’m interested in Full Stack Web Development
 - 🔭 I’m currently working on [Techno Store](https://github.com/muhammedsaamy/Techno-Store.git)
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1AdtigMe-Ze6KbMgT-0ctpZi1HgR2gqdw/view?usp=share_link)
 - 📫 How to reach me: Muhammedsaamy@gmail.com
 
 <h3 align="left">Connect with me:</h3>
