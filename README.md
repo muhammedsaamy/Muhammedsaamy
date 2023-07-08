@@ -2,7 +2,6 @@
 <h3 align="center">Software Engineer</h3>
 
 - 👀 I’m interested in Full Stack Web Development
-- 🔭 I’m currently working on [Techno Store](https://github.com/muhammedsaamy/Techno-Store.git)
 - 📫 How to reach me: Muhammedsaamy@gmail.com
 
 <h3 align="left">Connect with me:</h3>
